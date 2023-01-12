@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## MY LANGUAGE SKILLS🌎:
-<img src="csshtml.png" width="400">
+<img src="./imagens/csshtml.png" width="400">
 <!-- ![LANGUAGES](./imagens/csshtml.png) -->
 
 
