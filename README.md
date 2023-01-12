@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## MY LANGUAGE SKILLS🌎:
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; margin-right: 10px;">
     <img src="./imagens/html.png" width="150">
-    <img src="./imagens/css.png" width="100">
+    <img src="./imagens/css.png" width="120">
     <img src="./imagens/js.png" width="150">
     <img src="./imagens/ts.svg" width="150">
     <img src="./imagens/bts.png" width="150">
