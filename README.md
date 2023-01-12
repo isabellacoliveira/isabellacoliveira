@@ -6,10 +6,13 @@
  
  ## 💞️ I’m looking to collaborate on projects
  
- ## 📫 You can reach me on my linkedin
+ ## 📫 You can reach me on: 
  <div>
     <a href="https://www.linkedin.com/in/isabella-cruz-de-oliveira-b761b7233/">
         <img style="width: 170px;" src="./imagens/linkedin.png">
+    </a>
+    <a href="https://www.instagram.com/isaxx_ah/">
+        <img style="width: 170px;" src="./imagens/insta.webp">
     </a>
  </div>
  
