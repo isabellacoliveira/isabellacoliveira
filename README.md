@@ -16,8 +16,6 @@
     </a>
  </div>
  
-
-
 <!---
 isabellacoliveira/isabellacoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -35,6 +33,9 @@ You can click the Preview link to take a look at your changes.
     <img src="./imagens/angular.png" width="150" style="margin-right: 5px;">
     <img src="./imagens/dotnet.png" width="150" style="margin-right: 5px;">
     <img src="./imagens/java.png" width="150" style="margin-right: 5px;">
+    <img src="./imagens/sass.png" width="150" style="margin-right: 5px;">
+    <img src="./imagens/git.svg" width="150" style="margin-right: 5px;">
+    <img src="./imagens/github.png" width="150" style="margin-right: 5px;">
 </div>
 
 
