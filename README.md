@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## MY LANGUAGE SKILLS🌎:
-![LANGUAGES](./imagens/csshtml.gif)
+![LANGUAGES](./imagens/csshtml.png)
 
 
 
