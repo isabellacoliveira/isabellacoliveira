@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
     <img src="./imagens/sharp.png" width="150" style="margin-right: 5px;">
     <img src="./imagens/react.png" width="150" style="margin-right: 5px;">
     <img src="./imagens/angular.png" width="150" style="margin-right: 5px;">
+    <img src="./imagens/dotnet.png" width="150" style="margin-right: 5px;">
+    <img src="./imagens/java.png" width="150" style="margin-right: 5px;">
 </div>
 
 
