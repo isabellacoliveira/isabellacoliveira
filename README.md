@@ -14,8 +14,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## MY LANGUAGE SKILLS🌎:
-<img src="./imagens/csshtml.png" width="400">
-<!-- ![LANGUAGES](./imagens/csshtml.png) -->
+<img src="./imagens/csshtml.png" width="150">
+<img src="./imagens/js.png" width="150">
+<img src="./imagens/ts.svg" width="150">
+<img src="./imagens/bts.png" width="150">
+<img src="./imagens/sharp.png" width="150">
+<img src="./imagens/react.png" width="150">
+<img src="./imagens/angular.png" width="150">
+
 
 
 
