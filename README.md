@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 ## MY LANGUAGE SKILLS🌎:
 <div style="display: flex; flex-direction: row;">
-    <img src="./imagens/html.png" width="150" style="margin-right: 5px;">
+    <img src="./imagens/html.png" width="170" style="margin-right: 5px;">
     <img src="./imagens/css.png" width="120" style="margin-right: 5px;">
-    <img src="./imagens/js.png" width="150" style="margin-right: 5px;">
+    <img src="./imagens/js.png" width="150" style="margin-right: 5px; border-radius: 8px;">
     <img src="./imagens/ts.svg" width="150" style="margin-right: 5px;">
     <img src="./imagens/bts.png" width="150" style="margin-right: 5px;">
     <img src="./imagens/sharp.png" width="150" style="margin-right: 5px;">
