@@ -7,8 +7,8 @@
  ## 💞️ I’m looking to collaborate on projects
  
  ## 📫 You can reach me on: 
- <div>
-    <a href="https://www.linkedin.com/in/isabella-cruz-de-oliveira-b761b7233/" style="margin-left: 20px;">
+ <div style="background-color: #000;">
+    <a href="https://www.linkedin.com/in/isabella-cruz-de-oliveira-b761b7233/">
         <img style="width: 170px;" src="./imagens/linkedin.png">
     </a>
     <a href="https://www.instagram.com/isaxx_ah/">
