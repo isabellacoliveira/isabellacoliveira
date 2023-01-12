@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## MY LANGUAGE SKILLS🌎:
-<div display="none">
+<div style="display: flex; flex-direction: row;">
     <img src="./imagens/html.png" width="150">
     <img src="./imagens/css.png" width="150">
     <img src="./imagens/js.png" width="150">
