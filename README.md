@@ -6,7 +6,13 @@
  
  ## 💞️ I’m looking to collaborate on projects
  
- ## 📫 You can reach me on my linkedin https://www.linkedin.com/in/isabella-cruz-de-oliveira-b761b7233/ 
+ ## 📫 You can reach me on my linkedin
+ <div>
+    <img src="./imagens/linkedin.png">
+    <a href="https://www.linkedin.com/in/isabella-cruz-de-oliveira-b761b7233/">
+ </div>
+ 
+
 
 <!---
 isabellacoliveira/isabellacoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
