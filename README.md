@@ -14,6 +14,9 @@
     <a href="https://www.instagram.com/isaxx_ah/">
         <img style="width: 170px;" src="./imagens/insta.webp">
     </a>
+    <a href="https://github.com/isabellacoliveira?tab=repositories">
+        <img style="width: 170px;" src="./imagens/github.png">
+    </a>
  </div>
  
 <!---
@@ -36,6 +39,7 @@ You can click the Preview link to take a look at your changes.
     <img src="./imagens/sass.png" width="150" style="margin-right: 5px;">
     <img src="./imagens/git.svg" width="150" style="margin-right: 5px;">
     <img src="./imagens/github.png" width="150" style="margin-right: 5px;">
+    <img src="./imagens/npm.png" width="150" style="margin-right: 5px;">
 </div>
 
 
