@@ -1,11 +1,5 @@
- ## 👋 Hi, I’m @isabellacoliveira
- 
- ## 👀 I’m interested in being a full-stack developer
- 
- ## 🌱 I’m currently learning c#, sql server , react and more... 
- 
- ## 💞️ I’m looking to collaborate on projects
- 
+ ## 👋 Hi, I’m @isabellacoliveira, 👀 I’m interested in being a full-stack developer, 💞️ I’m looking to collaborate on projects, 🌱 I’m currently learning c#, sql server , react and more... 
+
  ## 📫 You can reach me on: 
  <div>
     <a href="https://www.linkedin.com/in/isabella-cruz-de-oliveira-b761b7233/">
