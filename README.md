@@ -8,7 +8,50 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isabellacoliveira&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isabella Oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacoliveira&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
 </div>
+  
+## 🎓 Formação acadêmica:
+  
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://i.ibb.co/FYR5CVX/fatecrl.png"/>](https://fatecrl.edu.br/)
 
+**Análise e desenvolvimento de sistemas** \
+[**FATEC**]([https://fatecrl.edu.br/](https://fatecpg.edu.br/)) • Aluno \
+Fevereiro 2022 - Dezembro 2024 \
+Linguagens & Tecnologias: `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`\
+<br>
+<br>
+  
+[<img align="left" height="120px" width="120px" alt="logoetecdraruthcardoso" src="https://media.glassdoor.com/sqll/2832847/digital-innovation-one-squarelogo-1670577683851.png"/>](https://www.dio.me/en)
+
+**Desenvolvimento de sistemas** \
+[**Digital Inovation One**](https://www.dio.me/en) • Aluno \
+Fevereiro 2022 \
+Linguagens & Tecnologias: `C#`, `Java`, `Spring`\
+Projetos em destaque: []()
+<br>
+<br>
+  
+[<img align="left" height="120px" width="120px" alt="logoalura" src="https://i.ibb.co/M5FxTs2/alura.jpg"/>](https://www.alura.com.br/)
+
+**Programação** \
+[**Alura**](https://www.alura.com.br/) • Aluno \
+Outubro 2022  \
+Linguagens & Tecnologias: `React`, `Angular`, `MySql`, `C#`, `Vue`, `.NET` \
+Projetos em destaque: []()
+<br>
+<br>
+<br>
+
+## 💼 Experiência profissional:
+
+[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
+
+**Desenvolvedora Full-Stack** \
+[**ModalGR**](https://www.modalgr.com.br/) • Estágio \
+Outubro 2022 - Momento \
+Linguagens & Tecnologias: `React`, `Angular`, `C#`, `Typescript`, `.NET`\
+<br>
+<br>
+<br> 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=isabellacoliveira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -21,7 +64,6 @@
 
 
 ## 🎯 Skills:
-<h4>My Skills</h4>
 
 <h5>Front-end:</h5>
 
@@ -93,6 +135,7 @@
 <img align="center" alt="cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" />
 <img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
   [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
+  [![Spring](https://skills.thijs.gg/icons?i=spring)](https://pt.wikipedia.org/wiki/spring)
   [![CPP](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/cpp)
   [![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
   <br>
