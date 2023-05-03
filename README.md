@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
 
+# Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isabella+Oliveira;I'm+18+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=isabellacoliveira&bg_color=2b2728&color=b5b5b5&line=8c878b&point=bcb3b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
