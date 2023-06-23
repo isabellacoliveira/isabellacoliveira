@@ -4,16 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isabella+Oliveira;I'm+18+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=isabellacoliveira&bg_color=2b2728&color=b5b5b5&line=8c878b&point=bcb3b3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isabellacoliveira&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isabella Oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellacoliveira&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<a  href="https://github.com/isabellacoliveira?tab=repositories">
-  <img align="center"  width="390" src="https://github-readme-stats.vercel.app/api/wakatime?username=@isabellacoliveira&theme=github_dark&custom_title=Last%20Two%20Weeks:" />
-</a>
 </div>
   
 ## 🎓 Formação acadêmica:
