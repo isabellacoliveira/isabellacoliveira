@@ -22,7 +22,7 @@ Linguagens & Tecnologias: `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`\
 <br>
 <br>
   
-[<img align="left" height="120px" width="120px" alt="logoetecdraruthcardoso" src="https://media.glassdoor.com/sqll/2832847/digital-innovation-one-squarelogo-1670577683851.png"/>](https://www.dio.me/en)
+[<img align="left" height="120px" width="120px" alt="dio" src="[https://media.glassdoor.com/sqll/2832847/digital-innovation-one-squarelogo-1670577683851.png](https://media.licdn.com/dms/image/C4D0BAQEKbzdlM0lHQA/company-logo_200_200/0/1652539869843?e=2147483647&v=beta&t=n_gtmYMV_scb4qSAjxl3JoRZp8vILeqBwe-i_3v58cY)"/>](https://www.dio.me/en)
 
 **Desenvolvimento de sistemas** \
 [**Digital Inovation One**](https://www.dio.me/en) • Aluno \
