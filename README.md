@@ -22,7 +22,8 @@ Linguagens & Tecnologias: `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`\
 <br>
 <br>
   
-[<img align="left" height="120px" width="120px" alt="dio" src="[https://media.glassdoor.com/sqll/2832847/digital-innovation-one-squarelogo-1670577683851.png](https://media.licdn.com/dms/image/C4D0BAQEKbzdlM0lHQA/company-logo_200_200/0/1652539869843?e=2147483647&v=beta&t=n_gtmYMV_scb4qSAjxl3JoRZp8vILeqBwe-i_3v58cY)"/>](https://www.dio.me/en)
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/r0rx7o4jm6jy2uvzt7xk"/>](https://fatecrl.edu.br/)
+
 
 **Desenvolvimento de sistemas** \
 [**Digital Inovation One**](https://www.dio.me/en) • Aluno \
@@ -47,10 +48,30 @@ Projetos em destaque: []()
 
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
+**Analista de Desenvolvimento** \
+[**ModalGR**](https://www.modalgr.com.br/) \
+Agosto 2022 - Momento \
+Linguagens & Tecnologias: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
+<br>
+<br>
+<br> 
+
+[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
+
+**Desenvolvedora Full-Stack** \
+[**ModalGR**](https://www.modalgr.com.br/)  \
+Janeiro 2023 - Agosto 2023 \
+Linguagens & Tecnologias: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
+<br>
+<br>
+<br> 
+
+[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
+
 **Desenvolvedora Full-Stack** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
-Outubro 2022 - Momento \
-Linguagens & Tecnologias: `React`, `Angular`, `C#`, `Typescript`, `.NET`\
+Outubro 2022 - Dezembro 2022 \
+Linguagens & Tecnologias: `React`, `Typescript`,\
 <br>
 <br>
 <br> 
