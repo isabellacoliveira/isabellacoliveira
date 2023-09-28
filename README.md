@@ -29,7 +29,6 @@ Languages and Technologies:  `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS
 [**Digital Inovation One**](https://www.dio.me/en) • Student \
 February 2022 \
 Languages and Technologies:  `C#`, `Java`, `Spring`\
-Projetos em destaque: []()
 <br>
 <br>
   
@@ -39,7 +38,6 @@ Projetos em destaque: []()
 [**Alura**](https://www.alura.com.br/) • Student \
 October 2022  \
 Languages and Technologies: `React`, `Angular`, `MySql`, `C#`, `Vue`, `.NET` \
-Projetos em destaque: []()
 <br>
 <br>
 <br>
@@ -140,27 +138,34 @@ Languages and Technologies: `React`, `Typescript`,\
   <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
   <img align="center" alt="eclipse" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
-  <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
+  <img align="center" alt="Vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+  [![Eclipse](https://skills.thijs.gg/icons?i=eclipse)](https://pt.wikipedia.org/wiki/eclipse)
+  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
+-->
   [![Vscode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/vscode)
   [![Figma](https://skills.thijs.gg/icons?i=figma)](https://pt.wikipedia.org/wiki/figma)
   [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/git)
   [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/github)
-  [![Eclipse](https://skills.thijs.gg/icons?i=eclipse)](https://pt.wikipedia.org/wiki/eclipse)
-  [![IntelliJIDEA](https://skills.thijs.gg/icons?i=idea)](https://pt.wikipedia.org/wiki/netlify)
+
   <br>
 </div>
+
+  
+<!--  
 
 <h4>Studying:</h4>
 
  <div style="display: inline_block">
-  
-<!--  <img align="center" alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+<img align="center" alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="cpp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" />
-<img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />-->
+<img align="center" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   [![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
   [![Spring](https://skills.thijs.gg/icons?i=spring)](https://pt.wikipedia.org/wiki/spring)
   [![CPP](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/cpp)
   [![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
+-->
+
   <br>
 </div>
 <br>
