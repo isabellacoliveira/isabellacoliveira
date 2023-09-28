@@ -11,67 +11,67 @@
 
 </div>
   
-## 🎓 Formação acadêmica:
+## 🎓 Educational Background:
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://i.ibb.co/FYR5CVX/fatecrl.png"/>](https://fatecrl.edu.br/)
 
-**Análise e desenvolvimento de sistemas** \
-[**FATEC**]([https://fatecrl.edu.br/](https://fatecpg.edu.br/)) • Aluno \
-Fevereiro 2022 - Dezembro 2024 \
-Linguagens & Tecnologias: `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`\
+**Analysis and Systems Development** \
+[**FATEC**]([https://fatecrl.edu.br/](https://fatecpg.edu.br/)) • Student \
+February 2022 - December 2024 \
+Languages and Technologies:  `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`\
 <br>
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/r0rx7o4jm6jy2uvzt7xk"/>](https://fatecrl.edu.br/)
 
 
-**Desenvolvimento de sistemas** \
-[**Digital Inovation One**](https://www.dio.me/en) • Aluno \
-Fevereiro 2022 \
-Linguagens & Tecnologias: `C#`, `Java`, `Spring`\
+**Systems Development** \
+[**Digital Inovation One**](https://www.dio.me/en) • Student \
+February 2022 \
+Languages and Technologies:  `C#`, `Java`, `Spring`\
 Projetos em destaque: []()
 <br>
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logoalura" src="https://i.ibb.co/M5FxTs2/alura.jpg"/>](https://www.alura.com.br/)
 
-**Programação** \
-[**Alura**](https://www.alura.com.br/) • Aluno \
-Outubro 2022  \
-Linguagens & Tecnologias: `React`, `Angular`, `MySql`, `C#`, `Vue`, `.NET` \
+**Progamming** \
+[**Alura**](https://www.alura.com.br/) • Student \
+October 2022  \
+Languages and Technologies: `React`, `Angular`, `MySql`, `C#`, `Vue`, `.NET` \
 Projetos em destaque: []()
 <br>
 <br>
 <br>
 
-## 💼 Experiência profissional:
+## 💼 Profissional Experience:
 
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
-**Analista de Desenvolvimento** \
+**Development Analyst** \
 [**ModalGR**](https://www.modalgr.com.br/) \
-Agosto 2022 - Momento \
-Linguagens & Tecnologias: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
+August 2022 - moment \
+Languages and Technologies: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
 <br>
 <br>
 <br> 
 
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
-**Desenvolvedora Full-Stack** \
+**Full-Stack Developer** \
 [**ModalGR**](https://www.modalgr.com.br/)  \
-Janeiro 2023 - Agosto 2023 \
-Linguagens & Tecnologias: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
+January 2023 - August 2023 \
+Languages and Technologies: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
 <br>
 <br>
 <br> 
 
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
-**Desenvolvedora Front-End** \
-[**ModalGR**](https://www.modalgr.com.br/) • Estágio \
-Outubro 2022 - Dezembro 2022 \
-Linguagens & Tecnologias: `React`, `Typescript`,\
+**Front-End Developer** \
+[**ModalGR**](https://www.modalgr.com.br/) • Intern \
+October 2022 - December 2022 \
+Languages and Technologies: `React`, `Typescript`,\
 <br>
 <br>
 <br> 
@@ -167,7 +167,3 @@ Linguagens & Tecnologias: `React`, `Typescript`,\
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
  
-
-
-
-
