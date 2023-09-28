@@ -68,7 +68,7 @@ Linguagens & Tecnologias: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
 
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
 
-**Desenvolvedora Full-Stack** \
+**Desenvolvedora Front-End** \
 [**ModalGR**](https://www.modalgr.com.br/) • Estágio \
 Outubro 2022 - Dezembro 2022 \
 Linguagens & Tecnologias: `React`, `Typescript`,\
