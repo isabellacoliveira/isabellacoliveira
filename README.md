@@ -44,11 +44,21 @@ Languages and Technologies: `React`, `Angular`, `MySql`, `C#`, `Vue`, `.NET` \
 
 ## 💼 Profissional Experience:
 
+[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://static.wixstatic.com/media/2d759f_b52c66d3830541758a97ef2ab84b0e7c~mv2.png"/>](https://www.iportsolutions.com.br)
+
+**Software Engineer** \
+[**IPort Solutions**](https://www.iportsolutions.com.br) \
+January 2024 - at moment \
+Languages and Technologies: `React`, `C#`, `Typescript`, `.NET`, `MySQL`\
+<br>
+<br>
+<br> 
+
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://yt3.googleusercontent.com/0r4drn7-EuaHE86s2uH8nTyuhXOOVt-TA3iSPNM7lZpwTDpcyqTz5W6RjZQTMVtoFB9dcUJ6=s900-c-k-c0x00ffffff-no-rj"/>](https://construmarket.com.br/)
 
-**Development Analyst** \
+**Full Stack Developer** \
 [**Construmarket**](https://construmarket.com.br/) \
-October 2023 - at moment \
+October 2023 - January 2024 \
 Languages and Technologies: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
 <br>
 <br>
@@ -58,18 +68,8 @@ Languages and Technologies: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
 
 **Development Analyst** \
 [**ModalGR**](https://www.modalgr.com.br/) \
-January 2023 - October 2023 \
-Languages and Technologies: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`\
-<br>
-<br>
-<br> 
-
-[<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://i.ibb.co/S3pTxrf/logomodalgr.jpg"/>](https://www.modalgr.com.br/)
-
-**Front-End Developer** \
-[**ModalGR**](https://www.modalgr.com.br/) • Intern \
-October 2022 - December 2022 \
-Languages and Technologies: `React`, `Typescript`,\
+October 2022 - October 2023 \
+Languages and Technologies: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`, `React`\
 <br>
 <br>
 <br> 
