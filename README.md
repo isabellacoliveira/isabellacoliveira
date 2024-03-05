@@ -166,6 +166,9 @@ Languages and Technologies: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`, `Rea
   [![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
 -->
 
+---
+[![](https://visitcount.itsvg.in/api?id=isabellacoliveira&icon=2&color=6)](https://visitcount.itsvg.in)
+
   <br>
 </div>
 <br>
