@@ -2,7 +2,7 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isabella+Oliveira;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Isabella+Oliveira;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=isabellacoliveira&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Isabella Oliveira github stats" /> 
@@ -24,7 +24,6 @@ Languages and Technologies:  `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/r0rx7o4jm6jy2uvzt7xk"/>](https://fatecrl.edu.br/)
 
-
 **Systems Development** \
 [**Digital Inovation One**](https://www.dio.me/en) • Student \
 February 2022 \
@@ -32,7 +31,7 @@ Languages and Technologies:  `C#`, `Java`, `Spring`\
 <br>
 <br>
   
-[<img align="left" height="120px" width="120px" alt="logoalura" src="https://i.ibb.co/M5FxTs2/alura.jpg"/>](https://www.alura.com.br/)
+[<img align="left" height="120px" width="120px" alt="logoalura" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://www.alura.com.br/)
 
 **Progamming** \
 [**Alura**](https://www.alura.com.br/) • Student \
@@ -44,11 +43,21 @@ Languages and Technologies: `React`, `Angular`, `MySql`, `C#`, `Vue`, `.NET` \
 
 ## 💼 Profissional Experience:
 
+[<img align="left" height="120px" width="120px" alt="logoitau" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/2023_Ita%C3%BA_Unibanco_Logo.png"/>](https://www.itau.com.br/)
+
+**Engineer Analyst** \
+[**Itaú**](https://www.itau.com.br/) \
+May 2024 - at moment \
+Languages and Technologies: `Java`, `AWS`, `Typescript`, `Angular`\
+<br>
+<br>
+<br> 
+
 [<img align="left" height="120px" width="120px" alt="logomodalgr" src="https://static.wixstatic.com/media/2d759f_b52c66d3830541758a97ef2ab84b0e7c~mv2.png"/>](https://www.iportsolutions.com.br)
 
 **Software Engineer** \
 [**IPort Solutions**](https://www.iportsolutions.com.br) \
-January 2024 - at moment \
+January 2024 - May 2024 \
 Languages and Technologies: `React`, `C#`, `Typescript`, `.NET`, `MySQL`\
 <br>
 <br>
@@ -97,14 +106,14 @@ Languages and Technologies: `Angular`, `C#`, `Typescript`, `.NET`, `MySQL`, `Rea
   <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->
-[![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
+<!--[![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
 [![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)](https://pt.wikipedia.org/wiki/CSS3)
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://pt.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://pt.wikipedia.org/wiki/TypeScript)
 [![React](https://skills.thijs.gg/icons?i=react)](https://pt.wikipedia.org/wiki/React)
 [![Angular](https://skills.thijs.gg/icons?i=angular)](https://pt.wikipedia.org/wiki/Angular)
-[![Vue](https://skills.thijs.gg/icons?i=vue)](https://pt.wikipedia.org/wiki/Vue)
+[![Vue](https://skills.thijs.gg/icons?i=vue)](https://pt.wikipedia.org/wiki/Vue) -->
   <br> 
 </div>
 
